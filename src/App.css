@@ -2,10 +2,25 @@
   text-align: center;
 }
 
+.black-nav{
+  display: block;
+  background-color: #000000;
+  color: white;
+  height: 50px;
+  width: 100%;
+  padding-left: 20px;
+}
+
+.black-nav h4{ 
+  /* text-align: left; */
+  /* padding-top: 1px; */
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
